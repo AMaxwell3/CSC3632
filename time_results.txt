@@ -1,0 +1,144 @@
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.005s
+sys	0m0.003s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.005s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.003s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.005s
+sys	0m0.003s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.005s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.000s
+sys	0m0.008s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.002s
+sys	0m0.005s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.005s
+sys	0m0.003s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.002s
+sys	0m0.006s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.005s
+sys	0m0.003s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.005s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+real	0m0.007s
+user	0m0.002s
+sys	0m0.005s
